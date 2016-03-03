@@ -1,5 +1,5 @@
 <?php
 
-//FUNcIONES DE PHP COMines
+//FUNCIONES DE PHP COMUNES
 
 ?>
